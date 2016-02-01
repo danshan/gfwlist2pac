@@ -1,0 +1,13 @@
+## Vim ##
+
+*.swp
+*.swo
+*.un~
+Session.vim
+.netrwhist
+*~
+
+.DS_Store
+nohup.out
+*.bak
+proxy.pac
