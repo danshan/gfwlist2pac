@@ -1,3 +1,5 @@
 evernote.com
 gistboxapp.com
 akamaihd.net
+optimizely.com
+atlassian.com
