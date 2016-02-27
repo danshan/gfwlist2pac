@@ -3,3 +3,4 @@ gistboxapp.com
 akamaihd.net
 optimizely.com
 atlassian.com
+google.com.ph
