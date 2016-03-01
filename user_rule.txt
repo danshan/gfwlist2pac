@@ -3,3 +3,5 @@ gistboxapp.com
 akamaihd.net
 optimizely.com
 atlassian.com
+pics.dmm.co.jp
+imgmega.com
