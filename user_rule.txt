@@ -6,3 +6,4 @@ atlassian.com
 google.com.ph
 pics.dmm.co.jp
 imgmega.com
+youtu.be
