@@ -1,0 +1,10 @@
+akamaihd.net
+atlassian.com
+evernote.com
+gistboxapp.com
+github.io
+google.com.ph
+imgmega.com
+optimizely.com
+pics.dmm.co.jp
+youtu.be
