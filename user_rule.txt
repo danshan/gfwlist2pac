@@ -4,3 +4,5 @@ akamaihd.net
 optimizely.com
 atlassian.com
 google.com.ph
+pics.dmm.co.jp
+imgmega.com
