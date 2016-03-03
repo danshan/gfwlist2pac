@@ -1,5 +1,6 @@
 akamaihd.net
 atlassian.com
+copy.com
 evernote.com
 gistboxapp.com
 github.io
