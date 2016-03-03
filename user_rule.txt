@@ -1,5 +1,6 @@
 akamaihd.net
 atlassian.com
+blogspot.co.id
 blogspot.in
 copy.com
 evernote.com
