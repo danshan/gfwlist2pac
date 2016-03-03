@@ -9,4 +9,5 @@ google.com.ph
 imgmega.com
 optimizely.com
 pics.dmm.co.jp
+thoughtworks.com
 youtu.be
