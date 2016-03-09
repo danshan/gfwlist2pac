@@ -7,8 +7,8 @@ copy.com
 evernote.com
 gistboxapp.com
 github.io
+google.com.hk
 google.com.ph
-google.com/hk
 imgmega.com
 optimizely.com
 pics.dmm.co.jp
