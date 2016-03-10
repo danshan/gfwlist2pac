@@ -2985,6 +2985,7 @@ var domains = {
   "hotpot.hk": 1, 
   "freevpn.nl": 1, 
   "getmdl.io": 1, 
+  "docker.io": 1, 
   "windowsphoneme.com": 1, 
   "xiaochuncnjp.com": 1, 
   "urbansurvival.com": 1, 
