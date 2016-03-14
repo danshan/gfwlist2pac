@@ -8,6 +8,7 @@ docker.io
 evernote.com
 gistboxapp.com
 github.io
+google.co.jp
 google.com.hk
 google.com.ph
 imgmega.com
