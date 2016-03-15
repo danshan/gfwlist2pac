@@ -2691,6 +2691,7 @@ var domains = {
   "aobo.com.au": 1, 
   "fangongheike.com": 1, 
   "hi-on.org.tw": 1, 
+  "google.com.tw": 1, 
   "i2p2.de": 1, 
   "kingstone.com.tw": 1, 
   "proxifier.com": 1, 

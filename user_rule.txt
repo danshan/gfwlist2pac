@@ -12,6 +12,7 @@ github.io
 google.co.jp
 google.com.hk
 google.com.ph
+google.com.tw
 imgmega.com
 optimizely.com
 pics.dmm.co.jp
