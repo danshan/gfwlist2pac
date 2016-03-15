@@ -1785,6 +1785,7 @@ var domains = {
   "wanglixiong.com": 1, 
   "tweetwally.com": 1, 
   "pokerstrategy.com": 1, 
+  "d3js.org": 1, 
   "fring.com": 1, 
   "xing.com": 1, 
   "xinshijue.com": 1, 
