@@ -1,5 +1,6 @@
 akamaihd.net
 amazonaws.com
+apache.org
 atlassian.com
 blogspot.co.id
 blogspot.in
