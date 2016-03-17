@@ -1415,6 +1415,7 @@ var domains = {
   "freewallpaper4.me": 1, 
   "seesmic.com": 1, 
   "kba-tx.org": 1, 
+  "google.com.sg": 1, 
   "fillthesquare.org": 1, 
   "lotuslight.org.hk": 1, 
   "warehouse333.com": 1, 
