@@ -16,6 +16,7 @@ google.com.ph
 google.com.sg
 google.com.tw
 imgmega.com
+jetbrain.com
 optimizely.com
 pics.dmm.co.jp
 stackoverflow.com
