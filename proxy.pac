@@ -3492,6 +3492,7 @@ var domains = {
   "xiaohexie.com": 1, 
   "iblogserv-f.net": 1, 
   "kanzhongguo.eu": 1, 
+  "nerd-herders.com": 1, 
   "tagwa.org.au": 1, 
   "freewebs.com": 1, 
   "a-normal-day.com": 1, 
