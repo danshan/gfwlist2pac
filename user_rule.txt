@@ -3,6 +3,7 @@ amazonaws.com
 apache.org
 atlassian.com
 blogspot.co.id
+blogspot.com
 blogspot.in
 copy.com
 d3js.org
