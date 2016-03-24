@@ -2811,6 +2811,7 @@ var domains = {
   "comedycentral.com": 1, 
   "linksalpha.com": 1, 
   "taaze.tw": 1, 
+  "macrumors.com": 1, 
   "jinbushe.org": 1, 
   "zmw.cn": 1, 
   "tweetmylast.fm": 1, 
