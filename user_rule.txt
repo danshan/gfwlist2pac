@@ -11,6 +11,7 @@ docker.io
 evernote.com
 gistboxapp.com
 github.io
+google.co.id
 google.co.jp
 google.com.hk
 google.com.ph
@@ -19,7 +20,6 @@ google.com.tw
 h2database.com
 imgmega.com
 jetbrain.com
-nerd-herders.com
 nerd-herders.com
 optimizely.com
 pics.dmm.co.jp
