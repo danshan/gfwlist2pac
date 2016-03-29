@@ -13,6 +13,7 @@ evernote.com
 gistboxapp.com
 github.io
 google.co.id
+google.co.id
 google.co.jp
 google.com.hk
 google.com.ph
