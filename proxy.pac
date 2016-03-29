@@ -1530,6 +1530,7 @@ var domains = {
   "stage64.hk": 1, 
   "dw.com": 1, 
   "facesoftibetanselfimmolators.info": 1, 
+  "interviewcake.com": 1, 
   "vica.info": 1, 
   "qxbbs.org": 1, 
   "sexhu.com": 1, 
