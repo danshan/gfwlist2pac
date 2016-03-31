@@ -3,6 +3,7 @@ akamaihd.net
 amazonaws.com
 apache.org
 atlassian.com
+avmoo.net
 blogspot.co.id
 blogspot.com
 blogspot.in
@@ -12,7 +13,6 @@ docker.io
 evernote.com
 gistboxapp.com
 github.io
-google.co.id
 google.co.id
 google.co.jp
 google.com.hk

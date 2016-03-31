@@ -415,6 +415,7 @@ var domains = {
   "udn.com": 1, 
   "zhenghui.org": 1, 
   "vporn.com": 1, 
+  "avmoo.net": 1, 
   "dalailamaprotesters.info": 1, 
   "slandr.net": 1, 
   "50webs.com": 1, 
