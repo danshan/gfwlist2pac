@@ -2221,6 +2221,7 @@ var domains = {
   "ping.fm": 1, 
   "hkfreezone.com": 1, 
   "pentalogic.net": 1, 
+  "javmoo.xyz": 1, 
   "vpntunnel.com": 1, 
   "wan-press.org": 1, 
   "goodtv.com.tw": 1, 

@@ -22,6 +22,7 @@ google.com.tw
 h2database.com
 imgmega.com
 interviewcake.com
+javmoo.xyz
 jetbrain.com
 macrumors.com
 nerd-herders.com
