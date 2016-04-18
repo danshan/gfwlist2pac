@@ -2699,6 +2699,7 @@ var domains = {
   "imkev.com": 1, 
   "realraptalk.com": 1, 
   "listorious.com": 1, 
+  "slack.com": 1, 
   "bangyoulater.com": 1, 
   "zaobao.com": 1, 
   "open.com.hk": 1, 
