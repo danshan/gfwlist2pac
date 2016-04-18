@@ -29,6 +29,7 @@ macrumors.com
 nerd-herders.com
 optimizely.com
 pics.dmm.co.jp
+slack.help
 snsoso.com
 stackoverflow.com
 swagger.io
