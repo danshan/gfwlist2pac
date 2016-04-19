@@ -1922,6 +1922,7 @@ var domains = {
   "sjum.cn": 1, 
   "mgoon.com": 1, 
   "cbsnews.com": 1, 
+  "99soft.org": 1, 
   "chengmingmag.com": 1, 
   "soumo.info": 1, 
   "xfiles.to": 1, 
