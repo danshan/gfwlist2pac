@@ -696,6 +696,7 @@ var domains = {
   "nuzcom.com": 1, 
   "3a5a.com": 1, 
   "plus28.com": 1, 
+  "regex101.com": 1, 
   "cuiweiping.net": 1, 
   "baby-kingdom.com": 1, 
   "tube8.com": 1, 
