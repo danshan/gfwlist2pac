@@ -21,6 +21,7 @@ google.com.hk
 google.com.ph
 google.com.sg
 google.com.tw
+google.com.tw
 h2database.com
 http://regex101.com/
 imgmega.com
