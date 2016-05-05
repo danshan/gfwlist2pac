@@ -22,6 +22,7 @@ google.com.ph
 google.com.sg
 google.com.tw
 googleusercontent.com
+gstatic.com
 h2database.com
 imgmega.com
 interviewcake.com
