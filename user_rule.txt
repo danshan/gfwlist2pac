@@ -25,6 +25,7 @@ googleusercontent.com
 gravatar.com
 gstatic.com
 h2database.com
+ifttt.com
 imgmega.com
 interviewcake.com
 javmoo.xyz
