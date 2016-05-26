@@ -15,6 +15,7 @@ docker.io
 evernote.com
 gistboxapp.com
 github.io
+gmail.com
 google.co.id
 google.co.jp
 google.com.hk
