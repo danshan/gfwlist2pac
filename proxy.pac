@@ -1751,6 +1751,7 @@ var domains = {
   "x1949x.com": 1, 
   "hkatvnews.com": 1, 
   "palacemoon.com": 1, 
+  "cachefly.net": 1, 
   "cams.com": 1, 
   "mhradio.org": 1, 
   "webworkerdaily.com": 1, 
