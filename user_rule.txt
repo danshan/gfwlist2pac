@@ -43,6 +43,7 @@ slack.help
 snsoso.com
 stackoverflow.com
 swagger.io
+t.co
 thoughtworks.com
 xbeta.info
 youtu.be
