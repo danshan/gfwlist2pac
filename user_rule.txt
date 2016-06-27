@@ -46,5 +46,6 @@ stackoverflow.com
 swagger.io
 t.co
 thoughtworks.com
+www.google-analytics.com
 xbeta.info
 youtu.be
