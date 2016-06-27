@@ -34,6 +34,7 @@ interviewcake.com
 javmoo.xyz
 jetbrain.com
 macrumors.com
+maven.atlassian.com
 medium.com
 nerd-herders.com
 optimizely.com
