@@ -47,6 +47,7 @@ stackoverflow.com
 swagger.io
 t.co
 telegram.org
+telegram.org
 thoughtworks.com
 www.google-analytics.com
 xbeta.info
