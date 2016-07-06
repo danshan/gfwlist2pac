@@ -28,6 +28,7 @@ googleusercontent.com
 gravatar.com
 gstatic.com
 h2database.com
+ibm.com
 ifttt.com
 imgmega.com
 interviewcake.com
@@ -46,7 +47,6 @@ snsoso.com
 stackoverflow.com
 swagger.io
 t.co
-telegram.org
 telegram.org
 thoughtworks.com
 www.google-analytics.com
