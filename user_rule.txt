@@ -45,6 +45,7 @@ pics.dmm.co.jp
 regex101.com
 slack.com
 slack.help
+snsoso.cn
 snsoso.com
 stackoverflow.com
 swagger.io

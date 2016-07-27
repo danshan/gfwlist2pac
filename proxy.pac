@@ -2323,6 +2323,7 @@ var domains = {
   "vjmedia.com.hk": 1, 
   "radiovncr.com": 1, 
   "bl-doujinsouko.com": 1, 
+  "snsoso.cn": 1, 
   "mediachinese.com": 1, 
   "gutteruncensored.com": 1, 
   "hdtvb.net": 1, 
