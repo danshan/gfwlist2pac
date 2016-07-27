@@ -34,6 +34,7 @@ imgchili.net
 imgmega.com
 interviewcake.com
 javmoo.xyz
+jenkins-ci.org
 jetbrain.com
 macrumors.com
 maven.atlassian.com
