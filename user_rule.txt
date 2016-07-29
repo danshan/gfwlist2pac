@@ -9,6 +9,7 @@ avmoo.net
 blogspot.co.id
 blogspot.com
 blogspot.in
+bootstrapcdn.com
 cachefly.net
 copy.com
 d3js.org
