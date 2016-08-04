@@ -29,6 +29,7 @@ googleusercontent.com
 gravatar.com
 gstatic.com
 h2database.com
+hotgloo.io
 ibm.com
 ifttt.com
 imgchili.net
