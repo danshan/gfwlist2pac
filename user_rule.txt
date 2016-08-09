@@ -54,6 +54,7 @@ swagger.io
 t.co
 telegram.org
 thoughtworks.com
+www.excentia.es
 www.google-analytics.com
 xbeta.info
 youtu.be
