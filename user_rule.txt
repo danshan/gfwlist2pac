@@ -6,6 +6,7 @@ amazonaws.com
 apache.org
 atlassian.com
 avmoo.net
+bitbucket.org
 blogspot.co.id
 blogspot.com
 blogspot.in
