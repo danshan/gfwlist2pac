@@ -14,6 +14,7 @@ bootstrapcdn.com
 cachefly.net
 copy.com
 d3js.org
+dayoneapp.com
 docker.io
 evernote.com
 gistboxapp.com
