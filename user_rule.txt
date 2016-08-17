@@ -15,6 +15,7 @@ cachefly.net
 copy.com
 d3js.org
 dayoneapp.com
+dayoneapp.com
 docker.io
 evernote.com
 gistboxapp.com
