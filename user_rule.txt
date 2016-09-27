@@ -15,7 +15,6 @@ cachefly.net
 copy.com
 d3js.org
 dayoneapp.com
-dayoneapp.com
 docker.io
 evernote.com
 gistboxapp.com
@@ -48,6 +47,7 @@ medium.com
 nerd-herders.com
 optimizely.com
 pics.dmm.co.jp
+raspberrypi.org
 regex101.com
 slack.com
 slack.help
